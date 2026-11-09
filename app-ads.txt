@@ -182,4 +182,4 @@ orbrx.ai, 8000869124, RESELLER
 vungle.com, 581c4c9f487a7c024d000086, DIRECT, c107d686becd2d77
 bigo.sg,u4kdfxbirz,DIRECT
 bigo.sg,wwaujcdfpi,DIRECT
-
+vungle.com, 581c4c9f487a7c024d000086, DIRECT, c107d686becd2d77
